@@ -1,0 +1,8 @@
+D:\simplilearn\AssistedProjects\section-6\doApp\doApp\bin\Debug\doApp.exe.config
+D:\simplilearn\AssistedProjects\section-6\doApp\doApp\bin\Debug\doApp.exe
+D:\simplilearn\AssistedProjects\section-6\doApp\doApp\bin\Debug\doApp.pdb
+D:\simplilearn\AssistedProjects\section-6\doApp\doApp\obj\Debug\doApp.csproj.AssemblyReference.cache
+D:\simplilearn\AssistedProjects\section-6\doApp\doApp\obj\Debug\doApp.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\AssistedProjects\section-6\doApp\doApp\obj\Debug\doApp.csproj.CoreCompileInputs.cache
+D:\simplilearn\AssistedProjects\section-6\doApp\doApp\obj\Debug\doApp.exe
+D:\simplilearn\AssistedProjects\section-6\doApp\doApp\obj\Debug\doApp.pdb

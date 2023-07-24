@@ -1,0 +1,8 @@
+D:\simplilearn\AssistedProjects\section-6\DateHandling\DateHandling\bin\Debug\DateHandling.exe.config
+D:\simplilearn\AssistedProjects\section-6\DateHandling\DateHandling\bin\Debug\DateHandling.exe
+D:\simplilearn\AssistedProjects\section-6\DateHandling\DateHandling\bin\Debug\DateHandling.pdb
+D:\simplilearn\AssistedProjects\section-6\DateHandling\DateHandling\obj\Debug\DateHandling.csproj.AssemblyReference.cache
+D:\simplilearn\AssistedProjects\section-6\DateHandling\DateHandling\obj\Debug\DateHandling.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\AssistedProjects\section-6\DateHandling\DateHandling\obj\Debug\DateHandling.csproj.CoreCompileInputs.cache
+D:\simplilearn\AssistedProjects\section-6\DateHandling\DateHandling\obj\Debug\DateHandling.exe
+D:\simplilearn\AssistedProjects\section-6\DateHandling\DateHandling\obj\Debug\DateHandling.pdb
